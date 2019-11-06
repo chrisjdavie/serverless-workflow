@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# temporary - don't want everyone to be able to call my api until I'm ready
+config/
+config.py
